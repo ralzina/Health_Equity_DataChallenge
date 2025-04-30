@@ -6,6 +6,11 @@ This repository contains the team code of the Data Club of Notre Dame's particip
 To see our final presentation, go to:
 [Presentation](https://docs.google.com/presentation/d/1LRR6VyECsIrM5wETy8YN1EMhj-vr1AKD/edit?usp=sharing&ouid=102363376871042594645&rtpof=true&sd=true)
 
+## Members
+* Rene Alzina
+* Sam Weber
+* Claire Dann
+
 ## Getting Started
 
 ### 1. Clone the repository
