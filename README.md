@@ -10,6 +10,7 @@ To see our final presentation, go to:
 * Rene Alzina
 * Sam Weber
 * Claire Dann
+* Julia Klein
 
 ## Getting Started
 
